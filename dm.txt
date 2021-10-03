@@ -1,0 +1,1 @@
+time python3 benchmark.py -- 2 http://www.gutenberg.org/files/98/98-0.txt 10000 < all_sorts.list 
